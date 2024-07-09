@@ -1,0 +1,19 @@
+.nav a {
+    color: rgb(208, 255, 0);
+    padding-right: 30px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    color: rgb(233, 60, 12);
+  }
+  
+  .btn2 {
+    border-color: rgb(42, 8, 212);
+    background-color: rgb(68, 255, 0);
+    border-width: 5px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
